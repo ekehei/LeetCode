@@ -1,0 +1,1 @@
+{"name":"Local: 回文数2","url":"d:\\LeetCode\\回文数\\回文数2.py","tests":[{"id":1784650562092,"input":"121","output":""},{"id":1784650598898,"input":"-121","output":""},{"id":1784650604671,"input":"10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LeetCode\\回文数\\回文数2.py","group":"local","local":true}
